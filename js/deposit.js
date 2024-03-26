@@ -21,11 +21,6 @@ document.getElementById('deposit-btn').addEventListener('click', function () {
     balanceTotalElement.innerText=currentBalanceTotal;
 
 
-    
-
-
-
-
     // step 7
     depositField.value=''
 })
